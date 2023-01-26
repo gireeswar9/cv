@@ -1,2 +1,2 @@
 # cv
-# This file the CV
+This file contains the CV
